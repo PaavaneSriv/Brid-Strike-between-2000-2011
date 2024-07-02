@@ -74,14 +74,14 @@ The following Python libraries were used for data analysis and visualization:
 ## Visualizations
 
 The visualizations created in this project provide a comprehensive view of bird strike data:
- * ● Yearly Analysis & Bird Strikes in the US
- * ● Top 10 US Airlines in terms of having encountered bird strikes
- * ● Airports with most incidents of bird strikes – Top 50
- * ● Yearly Cost Incurred due to Bird Strikes:
- * ● When do most bird strikes occur?
- * ● Altitude of aeroplanes at the time of strike
- * ● Phase of flight at the time of the strike.
- * ● Average Altitude of the aeroplanes in different phases at the time of strike
- * ● Effect of Bird Strikes & Impact on Flight
- * ● Effect of Strike at Different Altitude
- * ● Were Pilots Informed? & Prior Warning and Effect of Strike Relation
+  ● Yearly Analysis & Bird Strikes in the US
+  ● Top 10 US Airlines in terms of having encountered bird strikes
+  ● Airports with most incidents of bird strikes – Top 50
+  ● Yearly Cost Incurred due to Bird Strikes:
+  ● When do most bird strikes occur?
+  ● Altitude of aeroplanes at the time of strike
+  ● Phase of flight at the time of the strike.
+  ● Average Altitude of the aeroplanes in different phases at the time of strike
+  ● Effect of Bird Strikes & Impact on Flight
+  ● Effect of Strike at Different Altitude
+  ● Were Pilots Informed? & Prior Warning and Effect of Strike Relation
